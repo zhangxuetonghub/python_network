@@ -1,2 +1,1 @@
-# python_network
-Python网络编程
+This is a project about Python Network.
