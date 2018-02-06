@@ -32,3 +32,4 @@ with s:
         if not txtin: break
         print( txtin.decode('utf-8'))
     s.close()
+    print("byebye")
