@@ -36,4 +36,5 @@ with conn:
         if not txtout: break
         conn.sendall(txtout.encode('utf-8'))
     conn.close()
+    print('byebye')
 s.close()
